@@ -1,0 +1,8 @@
+env_1: "hopper-expert-v2"
+env_2: "hopper-medium-v2"
+n_rounds: 1000
+n_clients: 10
+ncpr: 10
+temp_a: 0.1
+temp_c: 0.1
+dataset_size: 5000
