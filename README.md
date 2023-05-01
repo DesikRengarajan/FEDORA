@@ -1,5 +1,7 @@
 # Federated Ensemble-Directed Offline Reinforcement Learning
 
+[Video of real world demonstration on TurtleBot](https://youtu.be/LplasPUm3jg)
+
 This codebase is based on the following publicly available git repositories:  
 - TD3-BC: [sfujim/TD3_BC](https://github.com/sfujim/TD3_BC)
 - Flower: [adap/flower](https://github.com/adap/flower)
