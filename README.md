@@ -1,4 +1,4 @@
-# Federated Ensemble-Directed Offline Reinforcement Learning
+# [Federated Ensemble-Directed Offline Reinforcement Learning](https://arxiv.org/abs/2305.03097)
 
 [Video of real world demonstration on TurtleBot](https://youtu.be/LplasPUm3jg)
 
