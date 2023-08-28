@@ -1,6 +1,6 @@
 # [Federated Ensemble-Directed Offline Reinforcement Learning](https://arxiv.org/abs/2305.03097)
 
-Accepted at the Workshop of Federated Learning and Analytics in Practice, colocated with  the 40th International Conference on Machine Learning
+Accepted at the Workshop of Federated Learning and Analytics in Practice, colocated with  the 40th International Conference on Machine Learning (FL-ICML 2023)
 
 [Video of real world demonstration on TurtleBot](https://youtu.be/LplasPUm3jg)
 
