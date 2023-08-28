@@ -1,5 +1,7 @@
 # [Federated Ensemble-Directed Offline Reinforcement Learning](https://arxiv.org/abs/2305.03097)
 
+Accepted at the Workshop of Federated Learning and Analytics in Practice, colocated with  the 40th International Conference on Machine Learning
+
 [Video of real world demonstration on TurtleBot](https://youtu.be/LplasPUm3jg)
 
 This codebase is based on the following publicly available git repositories:  
