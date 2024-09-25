@@ -1,6 +1,6 @@
 # [Federated Ensemble-Directed Offline Reinforcement Learning](https://arxiv.org/abs/2305.03097)
 
-Acceteped at Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+Acceteped at the Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
 
 [Video of real world demonstration on TurtleBot](https://youtu.be/LplasPUm3jg)
 
